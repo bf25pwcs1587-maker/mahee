@@ -1,0 +1,6 @@
+{
+  "name": "Happy 19th Birthday, Mahee",
+  "description": "A colorful, playful prank-to-celebration birthday wish crafted for Manahil (Mahee) on the 19th.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
